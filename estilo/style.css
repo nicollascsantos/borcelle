@@ -24,7 +24,7 @@ footer {
     background-color: #fedfdd;
     padding: 15px 0px;
     font: bold  0.8rem "Comfortaa";
-    width: 500px;
+    max-width: 500px;
     margin: auto;
     display: flex;
     justify-content: space-evenly;
