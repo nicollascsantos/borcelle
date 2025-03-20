@@ -1,5 +1,6 @@
 html, body {
     height: 100vh;
+    width: 90vw;
     margin: 0;
 }
 
@@ -14,8 +15,11 @@ main {
 }
 
 .panfleto {
-    background: #fedfdd url("/imagens/VitaSlim.png") center no-repeat scroll;
-    background-size: 100% 100%;
+    height: 100%;
+    width: 100%;
+}
+
+img {
     height: 100%;
     width: 100%;
 }
