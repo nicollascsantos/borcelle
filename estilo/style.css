@@ -58,3 +58,8 @@ a:active {
 a:visited {
     color: #000;
 }
+
+.teste {
+    height: 50px;
+    width: 50px;
+}
